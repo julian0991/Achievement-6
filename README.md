@@ -1,6 +1,6 @@
 # Achievement-6
 
-Tableau link: https://public.tableau.com/app/profile/julian8461/viz/Achievement6FinalProject_16489933515340/Story
+Tableau link: https://public.tableau.com/views/Achievement6FinalProject_16489933515340/Story?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
 
